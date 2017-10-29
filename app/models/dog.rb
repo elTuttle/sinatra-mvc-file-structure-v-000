@@ -13,4 +13,6 @@ class Dog
 
   end
 
+  binding.pry
+
 end
