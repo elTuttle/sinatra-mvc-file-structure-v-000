@@ -15,4 +15,8 @@ class Dog
 
   end
 
+  def all
+    @@all
+  end
+
 end
