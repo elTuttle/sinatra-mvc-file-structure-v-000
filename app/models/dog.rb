@@ -12,7 +12,6 @@ class Dog
     @age = age
 
     @@all << self
-    binding.pry
 
   end
 
